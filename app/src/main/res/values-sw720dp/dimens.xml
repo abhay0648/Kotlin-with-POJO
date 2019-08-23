@@ -1,0 +1,51 @@
+<resources>
+
+    <dimen name="dialog_width">600dp</dimen>
+
+    <dimen name="margin_14">38dp</dimen>
+    <dimen name="margin_56">80dp</dimen>
+    <dimen name="margin_21">45dp</dimen>
+    <dimen name="margin_260">260dp</dimen>
+    <dimen name="margin_6">30dp</dimen>
+    <dimen name="margin_48">71dp</dimen>
+    <dimen name="margin_328">328dp</dimen>
+
+    <dimen name="margin_4">28dp</dimen>
+    <dimen name="margin_5">29dp</dimen>
+    <dimen name="margin_8">31dp</dimen>
+    <dimen name="margin_10">34dp</dimen>
+    <dimen name="margin_11">35dp</dimen>
+    <dimen name="margin_13">30dp</dimen>
+    <dimen name="margin_12">36dp</dimen>
+    <dimen name="margin_15">39dp</dimen>
+    <dimen name="margin_16">40dp</dimen>
+    <dimen name="margin_18">42dp</dimen>
+    <dimen name="margin_20">44dp</dimen>
+    <dimen name="margin_22">46dp</dimen>
+    <dimen name="margin_24">48dp</dimen>
+    <dimen name="margin_25">49dp</dimen>
+    <dimen name="margin_30">54dp</dimen>
+    <dimen name="margin_32">56dp</dimen>
+    <dimen name="margin_35">59dp</dimen>
+    <dimen name="margin_36">60dp</dimen>
+    <dimen name="margin_40">64dp</dimen>
+    <dimen name="margin_45">69dp</dimen>
+    <dimen name="margin_50">74dp</dimen>
+    <dimen name="margin_60">84dp</dimen>
+    <dimen name="margin_80">104dp</dimen>
+    <dimen name="margin_90">114dp</dimen>
+    <dimen name="margin_100">124dp</dimen>
+    <dimen name="margin_110">134dp</dimen>
+    <dimen name="margin_120">144dp</dimen>
+    <dimen name="margin_160">195dp</dimen>
+    <dimen name="margin_180">204dp</dimen>
+    <dimen name="margin_200">224dp</dimen>
+    <dimen name="margin_240">240dp</dimen>
+
+    <dimen name="sign_up_text_size">25dp</dimen>
+    <dimen name="movie_size">400dp</dimen>
+    <dimen name="image_height">320dp</dimen>
+    <dimen name="image_width">170dp</dimen>
+    <dimen name="image_start_end_margin">13dp</dimen>
+
+</resources>

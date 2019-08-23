@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="dialog_width">480dp</dimen>
+
+    <dimen name="margin_14">27dp</dimen>
+    <dimen name="margin_56">69dp</dimen>
+    <dimen name="margin_21">34dp</dimen>
+    <dimen name="margin_260">279dp</dimen>
+    <dimen name="margin_6">17dp</dimen>
+    <dimen name="margin_48">61dp</dimen>
+    <dimen name="margin_328">347dp</dimen>
+
+    <dimen name="margin_4">15dp</dimen>
+    <dimen name="margin_5">16dp</dimen>
+    <dimen name="margin_8">19dp</dimen>
+    <dimen name="margin_10">23dp</dimen>
+    <dimen name="margin_11">24dp</dimen>
+    <dimen name="margin_12">25dp</dimen>
+    <dimen name="margin_13">26dp</dimen>
+    <dimen name="margin_15">25dp</dimen>
+    <dimen name="margin_16">26dp</dimen>
+    <dimen name="margin_18">31dp</dimen>
+    <dimen name="margin_20">33dp</dimen>
+    <dimen name="margin_22">35dp</dimen>
+    <dimen name="margin_24">37dp</dimen>
+    <dimen name="margin_25">38dp</dimen>
+    <dimen name="margin_30">43dp</dimen>
+    <dimen name="margin_32">45dp</dimen>
+    <dimen name="margin_35">48dp</dimen>
+    <dimen name="margin_36">49dp</dimen>
+    <dimen name="margin_40">53dp</dimen>
+    <dimen name="margin_45">58dp</dimen>
+    <dimen name="margin_50">63dp</dimen>
+    <dimen name="margin_60">78dp</dimen>
+    <dimen name="margin_80">91dp</dimen>
+    <dimen name="margin_90">101dp</dimen>
+    <dimen name="margin_100">111dp</dimen>
+    <dimen name="margin_110">119dp</dimen>
+    <dimen name="margin_120">131dp</dimen>
+    <dimen name="margin_160">180dp</dimen>
+    <dimen name="margin_180">204dp</dimen>
+    <dimen name="margin_200">224dp</dimen>
+    <dimen name="margin_240">239dp</dimen>
+
+    <dimen name="sign_up_text_size">22dp</dimen>
+    <dimen name="movie_size">288dp</dimen>
+    <dimen name="image_height">290dp</dimen>
+    <dimen name="image_width">160dp</dimen>
+    <dimen name="image_start_end_margin">13dp</dimen>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">lalamoveTest</string>
+    <string name="type_dashboard">Type Dashboard</string>
+    <string name="mock_repo_adapter_view">mock_repo_adapter_view</string>
+    <string name="mock_repo_toolbar">mock_repo_toolbar</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="oops_something_went_wrong">Oops something went wrong please try after sometime</string>
+    <string name="google_play_service">Please Install google play services to use this application</string>
+    <string name="things_to_deliver">Things to Deliver</string>
+    <string name="delivery_details">Delivery Details</string>
+
+
+    <!--Api Response error-->
+    <string name="error_Http_not_found">HTTP_NOT_FOUND</string>
+    <string name="error_Http_internal">HTTP_INTERNAL_ERROR</string>
+    <string name="error_Http_other">HTTP_OTHER_ERROR</string>
+    <string name="error">Error</string>
+    <string name="network_error">Internet is not working&#8230;</string>
+    <string name="trending_repo_adapter_view">trending_repo_adapter_view</string>
+    <string name="trending">Trending</string>
+    <string name="sort_by_stars">Sort by stars</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="trending_repo_toolbar">trending_repo_toolbar</string>
+    <string name="end_view_dot_click">end_view_dot_click</string>
+    <string name="something_went_wrong">Something went wrong&#8230;</string>
+    <string name="alien_message">An alien is probably blocking your signal.</string>
+    <string name="retry">RETRY</string>
+
+</resources>
